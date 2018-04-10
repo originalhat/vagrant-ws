@@ -78,3 +78,5 @@ vagrant plugin install vagrant-aws
 vagrant up --provider=aws
 ```
 
+cf. https://github.com/mitchellh/vagrant-aws
+

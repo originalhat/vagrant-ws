@@ -39,3 +39,26 @@ vagrant reload
 ```
 
 cf. `Vagrantfile`
+
+## share
+
+>Vagrant Share lets you share your Vagrant environment to anyone around the world with an Internet connection. It will give you a URL that will route directly to your Vagrant environment from any device in the world that is connected to the Internet.
+
+```
+vagrant plugin install vagrant-share
+```
+
+```
+vagrant share --full
+```
+
+```
+vagrant connect <host:port>
+```
+
+## teardown
+
+1. suspend
+2. halt
+3. destroy
+

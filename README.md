@@ -62,3 +62,15 @@ vagrant connect <host:port>
 2. halt
 3. destroy
 
+## providers
+
+>While Vagrant ships out of the box with support for VirtualBox, Hyper-V, and Docker, Vagrant has the ability to manage other types of machines as well. This is done by using other providers with Vagrant.
+
+```
+vagrant up --provider=vmware_fusion
+```
+
+```
+vagrant up --provider=aws
+```
+

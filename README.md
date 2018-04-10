@@ -10,3 +10,17 @@ reproducable development workstation
 vagrant box add hashicorp/precise64
 ```
 
+## up and ssh
+
+```
+vagrant up
+```
+
+```
+vagrant ssh
+```
+
+```
+vagrant logout
+```
+

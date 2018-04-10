@@ -10,6 +10,8 @@ reproducible development workstation
 vagrant box add hashicorp/precise64
 ```
 
+...more about [boxes](https://www.vagrantup.com/docs/boxes/base.html)
+
 ## up and ssh
 
 ```
@@ -37,6 +39,8 @@ cf. `bootstrap.sh`
 ```
 vagrant reload
 ```
+
+...more about [networking](https://www.vagrantup.com/docs/networking/)
 
 cf. `Vagrantfile`
 

@@ -1,6 +1,6 @@
 # vagrant-ws
 
-reproducable development workstation
+reproducible development workstation
 
 ## boxes
 
@@ -24,3 +24,8 @@ vagrant ssh
 vagrant logout
 ```
 
+## provisioning
+
+```
+vagrant reload --provision
+```

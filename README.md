@@ -71,6 +71,10 @@ vagrant up --provider=vmware_fusion
 ```
 
 ```
+vagrant plugin install vagrant-aws
+```
+
+```
 vagrant up --provider=aws
 ```
 

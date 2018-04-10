@@ -29,3 +29,13 @@ vagrant logout
 ```
 vagrant reload --provision
 ```
+
+cf. `bootstrap.sh`
+
+## networking
+
+```
+vagrant reload
+```
+
+cf. `Vagrantfile`

@@ -22,10 +22,6 @@ vagrant up
 vagrant ssh
 ```
 
-```
-vagrant logout
-```
-
 ## provisioning
 
 ```
